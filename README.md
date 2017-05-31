@@ -86,4 +86,4 @@ This will listion signal of server and it send back 5 times with delay 2000 seco
 
 ## try 
 
- [TensorFlow website](https://github.com/Mohit-Mamtora/AppFinder-Android/blob/master/AppFinderAndroid1.0/demo.java)
+ [Demo of Appfinder](https://github.com/Mohit-Mamtora/AppFinder-Android/blob/master/AppFinderAndroid1.0/demo.java)
