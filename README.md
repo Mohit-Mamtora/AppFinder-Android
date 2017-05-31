@@ -5,7 +5,7 @@
 -----------------
 # AppFinder
 
-**AppFinder** is an open source java library which can find which divices is connected, that give you the **ip** of divices and divice **name** too at that time. AppFinder execution is asynchronously.  
+**AppFinder** is an open source java library which can find which devices is connected, that give you the **ip** of devices and divice **name** too at that time. AppFinder execution is asynchronously.  
 
 ## HOW IT;S WORK
 
